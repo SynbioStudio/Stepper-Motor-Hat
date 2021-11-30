@@ -1,5 +1,5 @@
 # Product Description:
-The Raspberry Pi Stepper Motor Hat is designed for hassle-free actuation of stepper motors using python code. It uses SPI as the communication protocol enabling up to two stepper motors on each SPI bus.
+The [Raspberry Pi Stepper Motor Hat](https://synbiostudio.com/products/raspberry-pi-stepper-motor-hat-up-to-two-stepper-motors) is designed for hassle-free actuation of stepper motors using python code. It uses SPI as the communication protocol enabling up to two stepper motors on each SPI bus.
 
 # Connecting the Stepper Motor Hat:
 To connect the device, simply align the female inputs on the hat with the male outputs from the Raspberry Pi board or other hats which have been previously stacked on top of the board. Connect the board to a voltage source and clip in the stepper motor into the connector.
